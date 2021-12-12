@@ -47,4 +47,4 @@ Array
 ---
 
 ### License
-Instructions and files in this directory are shared under the [GPL3](https://github.com/aliyilmaz/print_pre/1.0.0/LICENSE.md) license.
+Instructions and files in this directory are shared under the [GPL3](https://github.com/aliyilmaz/print_pre/tree/main/1.0.0/LICENSE.md) license.
