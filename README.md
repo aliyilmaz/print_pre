@@ -19,14 +19,14 @@ code:
 ```php
 require_once('Mind.php');
 $m = new Mind();
-$m::aliyilmaz('php/print_pre/1.0.0')->print_pre($data);
+$m::aliyilmaz('print_pre')->print_pre($data);
 ```
 
 **When using it in the class:**
 
 code:
 ```php
-self::aliyilmaz('php/print_pre/1.0.0')->print_pre($data);
+self::aliyilmaz('print_pre')->print_pre($data);
 ```
 
 output:
@@ -42,9 +42,9 @@ Array
 
 ### Dependencies
 
-1. [is_json - 1.0.0](https://github.com/aliyilmaz/is_json)
+1. [is_json - 1.0.1](https://github.com/aliyilmaz/is_json)
 
 ---
 
 ### License
-Instructions and files in this directory are shared under the [GPL3](https://github.com/aliyilmaz/print_pre/tree/main/1.0.0/LICENSE.md) license.
+Instructions and files in this directory are shared under the [GPL3](https://github.com/aliyilmaz/print_pre/blob/main/LICENSE) license.
